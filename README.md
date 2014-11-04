@@ -1,9 +1,10 @@
-# Modificame
+# MODIFICADO
 
 Este es un primer texto para *modificar*, **cambiar** y jugar.
-
+[DINOS](http://fc01.deviantart.net/fs5/i/2004/313/9/b/Dinos_and_waterspout_by_dustdevil.jpg)
 > Es nuestro arenero personal
 
+[]
 Pueden:
 
 - Borrarme
